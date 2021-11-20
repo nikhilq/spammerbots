@@ -2,4 +2,4 @@ build:
   docker:
     Glad: Dockerfile
 run:
-  Glad: python3 -m Gladiators.py
+  Glad: python3 -m Nikhil.py
