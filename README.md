@@ -1,6 +1,6 @@
 <!--This Bot is Made By Gladitors Project-->
 <p align="center">
-  <img src="resources/Gladiators.jpeg" alt="Logo">
+  <img src="https://telegra.ph/file/0ee6e112da17e1eb6cfd6.jpg" alt="Logo">
 </p>
 
 ### 🚀 Gʟᴀᴅɪᴀᴛᴏʀs sᴘᴀᴍᴍᴇʀʙᴏᴛs
