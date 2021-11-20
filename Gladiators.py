@@ -5077,7 +5077,7 @@ print(gladtext)
 print("")
 print("")
 print("Rooted successfully...")
-print("Starting Gladiators Spammerbots...")
+print("Starting Nikhil Spammerbots...")
 print("Started....")
 if len(sys.argv) not in (1, 3, 4):
     try:
