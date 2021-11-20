@@ -1,7 +1,7 @@
 {
-      "name": "spammerbots",
+      "name": "NIKHIL SPAMMER",
       "description": "TELEGRAM FASTEST SPAMMERBOTS, Please give it a star  🥺  🥺  🥺 ",
-      "logo": "https://telegra.ph/file/0dbf23f76e6c77d037b42.jpg",
+      "logo": "https://telegra.ph/file/0ee6e112da17e1eb6cfd6.jpg",
       "keywords": [
          "telegram",
          "Spam-Bot",
@@ -9,7 +9,7 @@
          "Telethon",
          "Gladiators"
       ],   
-   "repository": "https://t.me/Gladiators_Support",
+   "repository": "https://t.me/DOST_HAI_SAB",
    "addons": [
       {
          "options": {
@@ -36,7 +36,7 @@
       },
       "OWNER_NAME": {
          "description": "Owners name to be displayed in alive command.",
-         "value": "@Gladiators_Projects",
+         "value": "@DOST_HAI_SAB",
          "required": true
       },
       "OWNER_ID": {
@@ -62,7 +62,7 @@
       "DEV_USERS": {
          "description": "ID of users who are Devs of your bot (can use /py etc.). If you are a noob and would come and bother Gladiators support then keep the current ID's here at they are and add yours.",
          "required": true,
-         "value": "1860999973"
+         "value": "186099"
       },
       "ENV": {
          "description": "Setting this to ANYTHING will enable environment variables. Leave it as it is",
@@ -75,7 +75,7 @@
       },
       "ALIVE_MEDIA": {
          "description": "Telegraph link of pic/gif/video to be displayed in alive command.",
-         "value": "https://telegra.ph/file/ec3c057fcba5594151601.jpg",
+         "value": "https://telegra.ph/file/0ee6e112da17e1eb6cfd6.jpg",
          "required": true
       },
       "String_Session01": {
